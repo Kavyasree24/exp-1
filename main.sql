@@ -28,7 +28,7 @@ ALTER TABLE student
 RENAME TO students;
 
 INSERT INTO students
-VALUES(1,'NANDANA','CSE',20);
+VALUES(1,'KAVYASREE','CSE',20);
 
 TRUNCATE students;
 
